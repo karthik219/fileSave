@@ -1,5 +1,5 @@
 export interface Itest1{
    name:string;
-   id:number
-   i
+   id:number;
+   email:string;
 }
